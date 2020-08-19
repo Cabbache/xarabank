@@ -1,0 +1,7 @@
+news:yes
+default:tech4
+verbose:yes
+bus:42
+newsword:COVID-19
+lastnews:mta reacts as doctors  threaten action over amended covid-19 rules for bars
+newspoll:180
