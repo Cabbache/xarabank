@@ -40,7 +40,7 @@ Usage for the script: **./coordinates_busstops.bash [latitude] [longitude]**
 This will provide you with a list of JSON for nearby busstops, from which you must recognize the one you are looking for.
 Then in table.txt add a new record like this: bus stop name|bus stop JSON|bus stop description.
 
-### dependencies ###
+### Dependencies ###
 coordinates_busstops.bash requires (install by apt):
 * curl
 * jq
