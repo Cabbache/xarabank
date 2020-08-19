@@ -16,13 +16,13 @@ then run with: **python3 xarabank.py**
 ### What you should know ###
 memory.txt holds the bot settings:
 
-**news**: yes if you want the bot to check for news every newspoll seconds
-**default**: the default busstop, used so that user does not need to specify busstop
-**verbose**: yes if when showing arrival time, also shows bus name
-**bus**: default bus number
-**newsword**: none if you want to see news of all kinds
-**lastnews**: bot uses this when checking for new news
-**newspoll**: check news every newspoll seconds
+**news**: yes if you want the bot to check for news every newspoll seconds<br />
+**default**: the default busstop, used so that user does not need to specify busstop<br />
+**verbose**: yes if when showing arrival time, also shows bus name<br />
+**bus**: default bus number<br />
+**newsword**: none if you want to see news of all kinds<br />
+**lastnews**: bot uses this when checking for new news<br />
+**newspoll**: check news every newspoll seconds<br />
 
 table.txt is a table for bus stops with the following columns:
 
