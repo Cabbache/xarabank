@@ -30,7 +30,7 @@ table.txt is a table for bus stops with the following columns:
 * bus stop JSON
 * bus stop description
 
-Each record is separated by a pipe (|).
+Each column is separated by a pipe (|), records are separated by a newline.
 The bus stop JSON is used by the bot when it is checking the busstop time.
 To add bus stops to the table, you will need to find their JSON by using the coordinates_busstops.bash script.
 This was all made possible from reverse engineering the old tallinja app. The new app has a different api with https://meep.app/
